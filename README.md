@@ -1,9 +1,10 @@
-# Smart System - *Groepnaam*
+# Smart System - *Den Hollanders*
 
 **Teammembers**
-* Persoon 1
-* Persoon 2
-* Persoon 3
+* Timmy de Nooijer
+* Tommy de Nooijer
+* Steven Dijcks
 
 ## Summary
 *Korte beschrijving van het project*
+    Hollands
