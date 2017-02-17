@@ -2,6 +2,11 @@
 
 ## Mindmap 
 ![mindmappic](https://cloud.githubusercontent.com/assets/22319940/23060902/0067042a-f500-11e6-91d0-1471b1209be6.PNG)
+
+<p align="center">
+  <b>PDF Format:</b><br>
+  <a href="[mind map.pdf](https://github.com/AP-Elektronica-ICT/ssys17-den-hollanders/files/782845/mind.map.pdf)">Mindmap PDF</a>
+</p>
 ## Beschrijving
 
 Voor het vak Smart Systems gaan wij een sturing maken voor een voertuig. Dit voertuig moet enige vorm van intelligentie en draadloze communicatie hebben.
