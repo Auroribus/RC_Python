@@ -2,7 +2,7 @@
 
 |Week     |Beschrijving                                                       | 
 |---      |---                                                                | 
-|M3W1     |eerste week alles doorgenomen en begonnen aan een mindmap (voor analyse|
+|M3W1     |                                                                   |
 |M3W2     |                                                                   | 
 |M3W3     |                                                                   |
 |M3W4     |                                                                   |
