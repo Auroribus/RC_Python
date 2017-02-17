@@ -3,9 +3,7 @@
 ## Mindmap 
 ![mindmappic](https://cloud.githubusercontent.com/assets/22319940/23060902/0067042a-f500-11e6-91d0-1471b1209be6.PNG)
 
-
-<a href="test">[mind map.pdf](https://github.com/AP-Elektronica-ICT/ssys17-den-hollanders/files/782845/mind.map.pdf)</a>
-
+Mindmap PDF: [mind map.pdf](https://github.com/AP-Elektronica-ICT/ssys17-den-hollanders/files/782845/mind.map.pdf)
 
 ## Beschrijving
 
