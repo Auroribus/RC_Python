@@ -1,10 +1,7 @@
 # Analyse
 
-## Mindmap
-
-Maak een mindmap met alle functionaliteit die je wilt voorzien in je project.
-Dit zal je startpunt zijn voor een verdere analyse.  
-
+## Mindmap 
+![mindmappic](https://cloud.githubusercontent.com/assets/22319940/23060902/0067042a-f500-11e6-91d0-1471b1209be6.PNG)
 ## Beschrijving
 
 Voor het vak Smart Systems gaan wij een sturing maken voor een voertuig. Dit voertuig moet enige vorm van intelligentie en draadloze communicatie hebben.
