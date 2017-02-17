@@ -7,10 +7,10 @@ Dit zal je startpunt zijn voor een verdere analyse.
 
 ## Beschrijving
 
-Zet hier de beschrijving van je project. Licht de functionaliteit van het
-project toe.
-
-Minimaal 3000 tekens.  
+Voor het vak Smart Systems gaan wij een sturing maken voor een voertuig. Dit voertuig moet enige vorm van intelligentie en draadloze communicatie hebben.
+Het voertuig wordt gebouwd op een chassis en deze beweegt zich voort door middel van rupsbanden. De rupsbanden worden aangedreven door 2 DC motoren en de wagen kan in elke richting bewegen. Dit wordt gedaan door met de ene motor naar achteren te draaien en met de andere motor naar voren. Daarnaast moet het voertuig ook kunnen versnellen en afremmen. De sturing van het voertuig wordt gebaseerd op een h-brug.
+Door middel van draadloze communicatie, gebruikmakend van een arduino nano en een teensy, sturen wij commando’s naar het voertuig waardoor het zich kan voort bewegen en vervolgens debug informatie kan terug sturen. 
+Het project wordt Agile ontwikkeld door gebruik te maken van de scrum methodologie. Dit wordt uitgewerkt op github met behulp van zenhub.
 
 ## Blokdiagram
 
