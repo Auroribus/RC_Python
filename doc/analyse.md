@@ -32,11 +32,5 @@ Tijdens het project wordt er gedocumenteerd in een portfolio format, dit heeft m
 
 ## Blokdiagram
 
-Maak een high level diagram van zowel hardware als software. Hierin moet
-duidelijk worden weergegeven wat de verschillende componenten zijn en hoe deze
-aan elkaar hangen. 
-
-### Software
-
-### Hardware
+![mindmappic](http://i.imgur.com/gpINAFP.jpg)
 
