@@ -31,6 +31,12 @@ Tijdens het project wordt er gedocumenteerd in een portfolio format, dit heeft m
 
 
 ## Blokdiagram
+![flowchart_algemeen](https://cloud.githubusercontent.com/assets/22319940/23299270/3a9b28b6-fa81-11e6-9a4e-bf54b72bb7b8.PNG)
+
+[Blokdiagram_Algemeen.pdf](https://github.com/AP-Elektronica-ICT/ssys17-Timmy-Tommy-Steven-4/files/798918/Blokdiagram_Algemeen.pdf)
+
+
+
 ![flowchart_hardware](https://cloud.githubusercontent.com/assets/22319940/23299165/bd56ff24-fa80-11e6-8a06-9107d752781a.PNG)
 
 [Blokdiagram_Hardware.pdf](https://github.com/AP-Elektronica-ICT/ssys17-Timmy-Tommy-Steven-4/files/798907/Blokdiagram_Hardware.pdf)
