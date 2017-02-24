@@ -13,7 +13,10 @@ Het voertuig wordt gebouwd op een chassis dat we gaan maken met behulp van een 3
 -	2x AA Batterijen = 3V
 
 Deel van de opdracht is om het voertuigje obstakels laten vermijden, dit komt aan bod Door middel van Sensoren.
-Door middel van draadloze communicatie, gebruikmakend van een arduino nano (die aangesloten is aan de computer) en een teensy (die aangesloten is aan het voertuig), sturen wij commando’s naar het voertuig, hier maken we gebruik van wifi of bluetooth waardoor het zich kan voort bewegen en vervolgens debug informatie kan terug sturen. Voeding voor de Arduino:
+Door middel van draadloze communicatie, gebruikmakend van een arduino nano (die aangesloten is aan de computer) en een teensy (die aangesloten is aan het voertuig), sturen wij commando’s naar het voertuig, hier maken we gebruik van nrf24l01:
+![nrf](https://cloud.githubusercontent.com/assets/22319940/23299416/cc8206f0-fa81-11e6-8a1e-f898fcdf546e.png)
+
+waardoor het zich kan voort bewegen en vervolgens debug informatie kan terug sturen. Voeding voor de Arduino:
 
 -	1x 6IR61 Batterij = 9V
 
