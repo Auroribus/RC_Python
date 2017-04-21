@@ -7,3 +7,5 @@ In deze map verzamel je de gebruikte datasheets. Upload ze als pdf.
   <pre> -K20P64M50SF0.pdf </pre>
 <p>Voor de Raspberry Pi bevind zich:</p>
   <pre> -RPI-CM-DATASHEET-V1_0.pdf </pre>
+<p>Voor de Servo bevind zich:</p>
+  <pre>900-00008-Continuous-Rotation-Servo-Documentation-v2.2.pdf</pre>
