@@ -11,6 +11,6 @@ Robot applicatie.
 <pre>https://www.piborg.org/rpi-ps3-help</pre>
 <pre>https://www.piborg.org/blog/pi-zero-wifi-ps3</pre>
 
-<h2>Rotation Servo</h2>
+<h2>Rotation Servo:</h2>
 <pre>https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview</pre>
 
