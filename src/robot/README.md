@@ -13,4 +13,5 @@ Robot applicatie.
 
 <h2>Rotation Servo:</h2>
 <pre>https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview</pre>
+<pre>http://razzpisampler.oreilly.com/ch05.html</pre>
 
