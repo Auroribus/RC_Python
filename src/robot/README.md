@@ -8,8 +8,8 @@ Robot applicatie.
 <pre>https://miguelmota.com/blog/raspberry-pi-camera-board-video-streaming/</pre>
 
 <h2>Draadloze besturing:</h2>
-<pre>steven, plaats hier een paar linkjes waar je info hebt gevonden :D</pre>
-<pre>steven, plaats hier een paar linkjes waar je info hebt gevonden :D</pre>
+<pre>https://www.piborg.org/rpi-ps3-help</pre>
+<pre>https://www.piborg.org/blog/pi-zero-wifi-ps3</pre>
 <pre>steven, plaats hier een paar linkjes waar je info hebt gevonden :D</pre>
 <pre>steven, plaats hier een paar linkjes waar je info hebt gevonden :D</pre>
 
