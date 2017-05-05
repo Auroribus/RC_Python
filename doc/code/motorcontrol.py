@@ -86,3 +86,4 @@ except KeyboardInterrupt:
  GPIO.cleanup()
  p.stop()
  p2.stop()
+ 
