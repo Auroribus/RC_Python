@@ -9,4 +9,4 @@ Tijdens de PSU (project start up) moeten we analyse gaan uitvoeren betreft een v
 
 **Wees selectief welke bestanden u upload, hou de repo overzichtig. De informatie moet met een oogopslag te vinden zijn.**
 
-[![Published on webcomponents.org]
+# App Layout [![Build Status](https://travis-ci.org/PolymerElements/app-layout.svg?branch=master)](https://travis-ci.org/PolymerElements/app-layout) [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/PolymerElements/app-layout)
