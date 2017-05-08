@@ -15,3 +15,5 @@ Robot applicatie.
 <pre>https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview</pre>
 <pre>http://razzpisampler.oreilly.com/ch05.html</pre>
 
+<h2>3D case design:</h2>
+<pre>https://www.tinkercad.com/</pre>
