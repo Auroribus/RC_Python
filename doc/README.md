@@ -8,3 +8,5 @@ Tijdens de PSU (project start up) moeten we analyse gaan uitvoeren betreft een v
 
 
 **Wees selectief welke bestanden u upload, hou de repo overzichtig. De informatie moet met een oogopslag te vinden zijn.**
+
+[![Published on webcomponents.org]
