@@ -78,8 +78,8 @@ def stop():
  io.output(27,0)
 
 def forwardLeft():
- global p
- p.ChangeDutyCycle(20)
+ global pwm_motor1
+ pwm_motor1.ChangeDutyCycle(20)
  io.output(11,0)
  io.output(17,1)
  io.output(22,1)
