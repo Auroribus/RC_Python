@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: l293d + power in & out + Rasbpian_1
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                            LAMINATION
+l293d + power in & out + Rasbpian_1 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.6000    PTH      4
+   2   0.8890    PTH     57
+   3   1.1810    PTH     10
+   4   0.8466    PTH      1
